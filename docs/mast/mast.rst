@@ -4,6 +4,9 @@
 MAST Queries (`astroquery.mast`)
 ********************************
 
+Introduction
+============
+
 Getting Started
 ===============
 
