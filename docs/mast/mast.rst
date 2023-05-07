@@ -7,6 +7,10 @@ MAST Queries (`astroquery.mast`)
 Introduction
 ============
 
+Astroquery.mast is a module available through the Astroquery Python toolkit. To 
+install Astroquery, follow the instructions detailed 
+`here <https://astroquery.readthedocs.io/en/latest/>`__.
+
 Getting Started
 ===============
 
