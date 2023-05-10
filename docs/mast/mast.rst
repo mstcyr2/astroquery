@@ -7,9 +7,12 @@ MAST Queries (`astroquery.mast`)
 Introduction
 ============
 
-Astroquery.mast is a module available through the Astroquery Python toolkit. To 
-install Astroquery, follow the instructions detailed 
-`here <https://astroquery.readthedocs.io/en/latest/>`__.
+The Mikulski Archive for Space Telescopes (MAST) is a NASA funded project made to 
+collect and archive a variety of scientific data to support the astronomical community.
+The Archive stores an incredible amount of data from over 20 space-based missions.
+Astropy's astroquery.mast module is one tool used to access the data in this Archive.
+This module is available through Astropy's Astroquery Python toolkit.
+
 
 Getting Started
 ===============
