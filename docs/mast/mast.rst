@@ -13,7 +13,6 @@ The Archive stores an incredible amount of data from over 20 space-based mission
 Astropy's astroquery.mast module is one tool used to access the data in this Archive.
 This module is available through Astropy's Astroquery Python toolkit.
 
-
 Getting Started
 ===============
 
